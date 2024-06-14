@@ -37,7 +37,7 @@ const Section3 = () => {
           </div>
 
          <div>
-         <button className="bg-[#002100] h-[52px] w-[240px] text-[20px] text-white font-medium rounded-[30px]">
+         <button className="bg-[#46BC1C] h-[52px] w-[240px] text-[20px] text-white font-medium rounded-[30px]">
               Get Started
             </button>
          </div>
