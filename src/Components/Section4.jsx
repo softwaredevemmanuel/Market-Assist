@@ -28,7 +28,7 @@ const Section4 = () => {
               </p>
             </div>
             <div className="flex items-center gap-2">
-            <CiLocationOn size={30} className="text-[#4FBF2B]"/>
+              <CiLocationOn size={30} className="text-[#4FBF2B]" />
               <p className="text-[14px]">Guaranteed freshness and selection.</p>
             </div>
             <div className="flex items-center gap-2">
