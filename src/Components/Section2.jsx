@@ -5,6 +5,7 @@ import playstore from "../Assets/appstore.png";
 import googleplay from "../Assets/googleplay.png";
 import Section3 from "./Section3";
 import Section4 from "./Section4";
+import Section5 from "./Section5";
 
 const Section2 = () => {
   return (
@@ -59,8 +60,9 @@ const Section2 = () => {
       </div>
 
       <div>
-        <Section3/>
-        <Section4/>
+        <Section3 />
+        <Section4 />
+        <Section5 />
       </div>
     </div>
   );
