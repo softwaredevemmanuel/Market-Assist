@@ -4,6 +4,7 @@ import sidee from "../Assets/shirt.jpeg";
 import playstore from "../Assets/appstore.png";
 import googleplay from "../Assets/googleplay.png";
 import Section3 from "./Section3";
+import Section4 from "./Section4";
 
 const Section2 = () => {
   return (
@@ -59,6 +60,7 @@ const Section2 = () => {
 
       <div>
         <Section3/>
+        <Section4/>
       </div>
     </div>
   );

@@ -7,7 +7,7 @@ import time from "../Assets/time.png"
 const Section3 = () => {
   return (
     <div className="bg-white py-[110px] h-full px-[100px]">
-      <div className="flex items-center   justify-between">
+      <div className="flex items-center gap-10   justify-between">
         <div className="h-full pt-5 flex flex-col gap-10">
           <h1 className="font-bold leading-[55px] text-[40px]">We shop, you relax</h1>
           <p className="w-[574px] text-[18px] font-medium">
