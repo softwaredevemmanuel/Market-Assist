@@ -6,6 +6,7 @@ import googleplay from "../Assets/googleplay.png";
 import Section3 from "./Section3";
 import Section4 from "./Section4";
 import Section5 from "./Section5";
+import Section6 from "./Section6";
 
 const Section2 = () => {
   return (
@@ -24,7 +25,7 @@ const Section2 = () => {
               Your Personal Guide To <br /> Every Market
             </h1>
 
-            <p className="w-[574px] text-[18px] font-medium text-[#6B6D7B]">
+            <p className="xl:w-[574px] lg:w-[450px] text-[18px] font-medium text-[#6B6D7B]">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Distinctio sit labore quaerat amet culpa ipsum inventore alias
               minima quibusdam. Alias magni delectus nemo quis nulla sint esse
@@ -63,6 +64,7 @@ const Section2 = () => {
         <Section3 />
         <Section4 />
         <Section5 />
+        <Section6 />
       </div>
     </div>
   );
